@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Amihaesei Vlad
+title: Vlad Amihaesei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: climatologist
+role: climate scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Alexandru Ioan Cuza University
-  url: https://www.uaic.ro/
+- name: National Meteorological Administration
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include climate change.
+bio: My research interests include climate variabilty, snow modelling and the cryosphere- atmoshphere interactions 
 
 # Interests to show in About widget
 interests:
-- climate date visualisation
-- GIS
-- remote sensing
+- Climate data web visualisation
+- Climate change impact 
+- GIS 
+
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Geoscience
-    institution: UAIC University
-    year: present
-  - course: master in Geomatics
-    institution:Alexandru Ioan Cuza University
+    institution: Alexandru Ioan Cuza University
+    year: 2020
+  - course: Master degree in Geomatics 
+    institution: Alexandru Ioan Cuza University
     year: 2019
   - course: BSc in Geography
-    institution: Alexandru Ioan Cuza
+    institution: Alexandru Ioan Cuza University
     year: 2017
 
 # Social/Academic Networking
@@ -44,7 +45,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,9 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Vlad Alexandru is a climatologist at the National Meteorological Administration. His research interests include climate, snow modelling, remote sensing and programmable matter.
+Vlad Amihaesei is a PhD student of Geoscience Doctoral School at the Alexandru Ioan Cuza University. He works at the National Meteorological Administration, Departement of Climatology, Bucharest Romania. His research interests include climate variability, cryosphere-atmosphere interactions and climate change adaptation. 
 
-Vladadafdfdf.
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
