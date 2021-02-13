@@ -71,5 +71,7 @@ highlight_name: false
 
 Vlad Alexandru is a climatologist at the National Meteorological Administration. His research interests include climate, snow modelling, remote sensing and programmable matter.
 
+Vladadafdfdf.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
