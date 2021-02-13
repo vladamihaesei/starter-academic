@@ -11,23 +11,23 @@ role: climate scientist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: National Meteorological Administration
-  url: https://www.stanford.edu/
+  url: https://www.meteromania.ro/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include climate variabilty, snow modelling and the cryosphere- atmoshphere interactions 
 
 # Interests to show in About widget
 interests:
-- Climate data web visualisation
-- Climate change impact 
-- GIS 
+- statistical interactive 
+- R programming
+- cryosphere climatology
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Geoscience
     institution: Alexandru Ioan Cuza University
-    year: 2020
+    year: present
   - course: Master degree in Geomatics 
     institution: Alexandru Ioan Cuza University
     year: 2019
@@ -64,10 +64,10 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "vlad.amihaesei95@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Vlad Amihaesei is a PhD student of Geoscience Doctoral School at the Alexandru Ioan Cuza University. He works at the National Meteorological Administration, Departement of Climatology, Bucharest Romania. His research interests include climate variability, cryosphere-atmosphere interactions and climate change adaptation. 
