@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Amihaesei Vlad
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: climatologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Alexanru Ioan Cuza University
+  url: https://www.uaic.ro/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include climate change.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- climate
+- gis
 - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Geoscience
+    institution: UAIC University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
