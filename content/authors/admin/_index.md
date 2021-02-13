@@ -72,4 +72,4 @@ Vlad Amihaesei is a PhD student of Geoscience Doctoral School at the Alexandru I
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Vlad-Alexandru_Amihaesei_CV(4).pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Vlad-Alexandru_Amihaesei_CV (4).pdf" "newtab" >}}resumé{{< /staticref >}}.
