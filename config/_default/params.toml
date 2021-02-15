@@ -175,7 +175,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = false
+  gravatar = true
   avatar = "static/media/10.jpg"
 
   # Choose a shape for avatar images. Options: circle, square.
@@ -227,7 +227,7 @@ plugins_js  = []
   #   "": No search engine
   #   "wowchemy": Built-in search engine
   #   "algolia": Algolia (https://www.algolia.com)
-  provider = "wowchemy"
+  provider = "algolia"
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
