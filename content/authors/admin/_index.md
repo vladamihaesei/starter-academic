@@ -68,7 +68,7 @@ email: "vlad.amihaesei95@gmail.com"
 highlight_name: true
 ---
 
-Vlad Amihaesei is a PhD student of Geoscience Doctoral School at the Alexandru Ioan Cuza University. He works at the National Meteorological Administration, Departement of Climatology, Bucharest Romania. His research interests include climate variability, cryosphere-atmosphere interactions and climate change adaptation. 
+I am a PhD student of Geoscience Doctoral School at the Alexandru Ioan Cuza University. I also work at the National Meteorological Administration, Departement of Climatology, Bucharest Romania. My research interests include climate variability, cryosphere-atmosphere interactions and climate change adaptation. 
 
 
 
