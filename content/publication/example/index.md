@@ -13,7 +13,7 @@ authors:
 # Author notes (optional)
 # author_notes:
 
-date: "2013-07-01T00:00:00Z"
+date: "2021-02-24"
 doi: "10.1007/s00704-021-03560-w"
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: In *Theoretical and Applied Climatology*
 publication_short: In *TAAC*
 
-abstract: The Southern Carpathians (Romania) are one of the highest, steepest and most massive sectors of the Carpathian Mountains, with a strong imprint of the Pleistocene glaciation, which are widely affected by a broad spectrum of natural hazards (avalanches, rock wall weathering and landslides, flash floods). This paper focuses on the detection of recent changes in annual temperature and precipitation extremes over the 1961–2018 period based on observational data, discussing their spatial distribution and dependencies (on altitude, latitude and longitude). Trend analysis was applied on a set of 16 indices selected from the core indices recommended by the Expert Team on Climate Change Detection and Indices (ETCCDI). The results show a significant warming trend, well reflected by the strong decline of frost days and icing days and a significant increase in absolute maximum temperatures, summer days and warm spell duration. Trends in precipitation extremes are more various, suggesting a climate drying trend, apparently stronger in the areas with a fast rise of maximum temperatures (evidence of coupled warming-drying climate change signal) and an increasing frequency of heavy precipitation events and resulted water amounts, in the areas affected by summer convection intensification. Except TNn with trends slopes revealing a winter nighttime amplification with elevation, high elevations (at above 2000 m) show only slight changes in temperature and precipitation extremes compared to the lower areas, explaining the general lack of elevation dependency of trends. Longitude explains 48 to 54% of trends in heavy precipitation indices. Changes in the large-scale atmospheric circulation (e.g. intensification of westerly circulation, increasing frequency of blocking conditions), cloudiness and summer convection have been identified among the main factors influencing trend behaviour and their spatial distribution.
+# abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: 
